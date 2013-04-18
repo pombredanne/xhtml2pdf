@@ -38,6 +38,10 @@ the maintainer should theses names be changed to something more relevant.
 * Andrea Bravetti
 * Dale O'Brien
 * Bertrand Bordage
+* "tomscytale"
+* Nick Pack
+* Jeff Tchang
+* Andreas Stocker
 
 Special thanks
 ==============
